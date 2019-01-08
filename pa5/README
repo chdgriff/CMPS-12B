@@ -1,0 +1,15 @@
+// Christopher Griffis <chdgriff>
+// CS12B - 03/16/18
+// README - details file to be submitted
+
+Files:
+	Dictionary.h		Provided
+	Dictionary.c		Implements Dictionary.h
+	DictionaryClient.c	Provided
+	DictionaryTest.c	Tests functions made in Dictionary.c
+	Makefile		Runs, cleans, checks, and submits program
+	README			Details files to run
+
+To run:
+	$ make
+	$ DictionaryClient

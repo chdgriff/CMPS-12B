@@ -1,0 +1,18 @@
+// Christopher Griffis <chdgriff>
+// 12B 03/03/18
+// README - describes files to be turned in and description
+
+Files:
+
+	README				Table of contents and notes to grader
+	Makefile			Runs program and cleans up files
+	Job.java			Job ADT
+	Queue.java			Implements Queue ADT
+	QueueInterface.java		Queue interface
+	QuueEmptyException.java		Exception for empty queues
+	QueueTest.java			Tests Queue ADT
+	Simulation.java			Simulates jobs in a queue with multiple processors
+
+To run:
+	$ make
+	$ Simulation <input_file>

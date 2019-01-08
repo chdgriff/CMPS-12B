@@ -1,0 +1,17 @@
+// Christopher Griffis <chdgriff>
+// 12B 02/08/18
+// README - describes files to be turned in and description
+
+Files:
+
+    README			Table of contents and notes to grader
+    Dictionary.java		Implements the Dictionary ADT
+    DictionaryTest.java		Tests the functions of the ADT
+    DuplicateKeyException.java	Exception file for duplicate keys
+    KeyNotFoundException.java	Exception file for not finding keys
+    DictionaryInterface.java	The interface for the Dictionary ADT
+    DictionaryClient.java	The actual test file to be used to test output
+
+
+Implementation notes:
+    Had the pair of strings stored in Node class rather than making a separate pair class.
